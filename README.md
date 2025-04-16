@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndrewNguyenITVN
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on OSS
 - 📫 How to reach me nhutb2205896@student.ctu.edu.vn
 
 

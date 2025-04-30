@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndrewNguyenITVN
-- 👀 I’m interested in ML
 - 🌱 I’m currently learning IT
 - 📫 How to reach me nhutb2205896@student.ctu.edu.vn
 
